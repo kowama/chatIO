@@ -1,5 +1,6 @@
-#Chat IO
-**Chat application with room discussion created with Nodejs and ScoketIo**
+# Chat IO
+**Chat application with room discussion created with Nodejs and ScoketIO**
+
 Link to Test it [https://secure-journey-67193.herokuapp.com/](https://secure-journey-67193.herokuapp.com/ "https://secure-journey-67193.herokuapp.com/")
 ### Features
 
